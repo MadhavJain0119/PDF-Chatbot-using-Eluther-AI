@@ -26,6 +26,7 @@ The model is based on EleutherAI's state-of-the-art language model, which has be
 ```bash
 git clone https://github.com/yourusername/your-repo.git
 cd your-repo
+``` 
 
 ## Acknowledgments
 
