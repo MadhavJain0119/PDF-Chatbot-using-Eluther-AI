@@ -14,18 +14,13 @@ The model is based on EleutherAI's state-of-the-art language model, which has be
 - Configurable options to customize the chatbot's behavior and performance.
 - Well-documented code for easy understanding and future contributions.
 
-## Requirements
-
-- Python 3.7 or higher.
-- Required Python packages are listed in `requirements.txt`.
-
 ## Installation
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+git clone https://github.com/MadhavJain0119/PDF-Chatbot-using-Eluther-AI.git
+cd PDF-Chatbot-using-Eluther-AI
 ``` 
 
 ## Acknowledgments
